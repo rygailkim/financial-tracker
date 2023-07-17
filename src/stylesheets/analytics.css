@@ -1,0 +1,18 @@
+.total-transactions {
+  box-shadow: 0 0 0 1px #e1e1e1;
+  padding: 20px;
+  height: 250px;
+}
+
+.total-balance {
+  box-shadow: 0 0 0 1px #e1e1e1;
+  padding: 20px;
+  height: 250px;
+}
+
+.card-title{
+    font-size: 20px;
+    font-weight: 600;
+    /* color: #12b886; */
+    color: #303030
+}
